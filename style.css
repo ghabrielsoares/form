@@ -3,6 +3,10 @@
     width: 600px;
     padding: 1%;
     margin-top: 7%;
-    background-color: red;
+    background-color: rgb(82, 77, 115);
+    box-shadow: 1em 1em 1em rgb(119, 118, 166), -0.4rem -0.4rem #C4C1D9;
+}
 
+.box_name {
+    border-radius: 10px;
 }
